@@ -17,9 +17,9 @@ Markdown==3.2.2
 oauthlib==3.1.0
 pilkit==2.0
 Pillow==7.2.0
+psycopg2==2.8.5
 Pygments==2.6.1
 pymdown-extensions==7.1
-PyMySQL==0.10.0
 python-decouple==3.3
 python3-openid==3.2.0
 pytz==2020.1
