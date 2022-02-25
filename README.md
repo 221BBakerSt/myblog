@@ -1,5 +1,5 @@
 # myblog
-django project for 221bbakerst.site
+django project for cloudata.ltd
 
 ### Functions in detail：
 
